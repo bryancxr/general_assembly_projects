@@ -1,4 +1,4 @@
-# general_assembly_projects
+# General Assembly: Projects
 
 I am currently a student at General Assembly Singapore.
 
