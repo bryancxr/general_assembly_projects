@@ -1,169 +1,85 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Testing, Statistical Summaries and Inference
+# Project 1: What Factors Affect SAT Participation in US States?
 
-### Overview
+In this project, I examined the SAT and ACT participation rates and aggregated scores from 2017 and 2018 with the objective of determining a state in the USA where the College Board may next invest into with the intent of increasing SAT participation.
 
-Our first module in DSI covers:
-- basic statistics (distributions, confidence intervals, hypothesis testing)
-- many Python programming concepts
-- programmatically interacting with files and directories
-- visualizations
-- EDA
-- working with Jupyter notebooks for development and reporting
+I determined the data science problem statement to be:
 
-You might wonder if you're ready to start doing data science. While you still have **tons** to learn, there are many aspects of the data science process that you're ready to tackle. Project 1 aims to allow you to practice and demonstrate these skills.
+Does:
 
-For our first project, we're going to take a look at aggregate SAT and ACT scores and participation rates from each state in the United States. We'll seek to identify trends in the data and combine our data analysis with outside research to identify likely factors influencing participation rates and scores in various states.
+1. ACT participation,
+2. SAT average scores, or
+3. ACT average scores
 
-Generally speaking, you will be asked to come up with a data science problem. Here's a specific prompt that should help you craft this statement:
-> The new format for the SAT was released in March 2016. As an employee of the College Board - the organization that administers the SAT - you are a part of a team that tracks statewide participation and recommends where money is best spent to improve SAT participation rates. Your presentation and report should be geared toward **non-technical** executives with the College Board and you will use the provided data and outside research to make recommendations about how the College Board might work to increase the participation rate in a **state of your choice**.
+For a given year affect SAT participation for that year, and
 
----
+4. What other factors outside of the given data affect it?
 
-### Datasets
-
-#### Provided Data
-
-For this project, you'll have two provided datasets:
-
-These data give average SAT and ACT scores by state, as well as participation rates, for the graduating class of 2017/18.
-
-#### Additional Data
-
-** Previous iterations of this project required you to go and find and download the data. But some of the links have since died, so we just downloaded the data for you. This data has been compiled into CSV files which are also included in the *data* directory of this repo**
+I have simulated the time performing this project to 2019 and limited my use of sources to information available in 2019 and earlier to account for the age of the datasets given.
 
 ---
 
-### Deliverables
+## Executive Summary
 
-All of your projects will comprise of a written technical report and a presentation. As we continue in the course, your technical report will grow in complexity, but for this initial project it will comprise:
-- A Jupyter notebook that describes your data with visualizations & statistical analysis.
-- A README markdown file the provides an introduction to and overview of your project.
-- Your presentation slideshow rendered as a .pdf file.
-**NOTE**: Your entire Github repository will be evaluated as your technical report. Make sure that your files and directories are named appropriately, that all necessary files are included, and that no unnecessary or incomplete files are included.
+The technical report is located in folder /code/ and accompanying visual presentation in folder /presentation/.
 
-For your first presentation, you'll be presenting to a **non-technical** audience. You should prepare a slideshow with appropriately scaled visuals to complement a compelling narrative. **Presentation duration will differ by market, so check with your local instructor.**
+The data used for this project are from the following sources: SAT (2017), SAT (2018), ACT (2017), ACT (2018). These sources may be found in the /data folder with the 2017 and 2018 datasets combined as /data/combined_2017.csv and /data/combined_2018.csv. All other datasets in the /data/ folder are components of the eventual final_with_outside.csv dataset.
 
----
+These datasets were combined and evaluated using various data visualization techniques with the aim of finding relationships between their combined data.
 
-### Technical Report Starter Code
 
-Future projects will require you to decide on the entire structure of your technical report. Here, we provide you with [starter code](./code/starter-code.ipynb) in a Jupyter notebook that will help to guide your data exploration and analysis. **If you choose to edit the core structure of this notebook, make sure you don't exclude any of the requested operations**.
+### Summary of Findings & Recommendations
 
----
+From the given data, I found that:
+1. SAT and ACT participation rates had an inversely correlated relationship. This comes as no surprise given that each exam requires preparation over a number of months or years, the papers may be re-taken, and since colleges have no preference for one exam over the other. 
+2. Participation had an inversely correlated relationship with aggregate exam scores. This is also not a surprising finding given that if either exam was optional, and if colleges accept both equally, then it would be beneficial for students to take only the exam they excel in. In a state with the SATs being optional and ACT being compulsory or having a high participation rate, the average total of the SAT in that state will likely be very high (since only students who know they can/will perform well will voluntarily take it).
+3. A high average score in one exam is inversely correlated with the exam score in the other exam. This is a consequence of observation 1.
+4. If the SAT or ACT was taken in 2017, it would continue to be taken in 2018. This would also make intuitive sense given states would want to track their performance on the same standard over a long period of time. It would be preferable for the state chosen for investment not have a history of taking the ACT. There were, however, exceptions found to this.
+5. Average SAT Total and ACT Composite are indicative of average performance in each of their respective component papers.
 
-### Style Guide and Suggested Resources
+Unfortunately, the relationship between 2017 SAT Scores and 2018 SAT Participation (ie. to answer the question, will perceived difficulty of paper (difficult due to lower scoring) affect participation the next year?) This question could not be answered due to exam observation 2 -- that exam score is highly dependent upon participation. Individual student performance data samples will be required to answer this question.
 
-Here's a link on [how to give a good lightning talk](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/), which provides some good recommendations for short presentations.
+Next, we looked into demographics. It was found that:
+6. States which favoured SAT tended to be on the East and West coast, while Mountain and Mid-western states tend to favour ACT.
 
-[Here's a great summary](https://towardsdatascience.com/storytelling-with-data-a-data-visualization-guide-for-business-professionals-97d50512b407) of the main points of the book _Storytelling with Data_, which I can't recommend enough. [Here's a blog post](http://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles) by the author about his guiding principles for visualizations.
+Two states were exception to this trend: Colorado and Illinois. They gained significantly in SAT Participation in 2018 from 2017 due to states abandoning PARCC/Smarter Balanced high school testing and ESSA allowing states to use SAT as their primary high school examination. Colorado chose to start using SAT over ACT in 2018.
 
----
+After comparing the relationship between Median Household Income in 2018 by state, it was determined that:
+7. SAT participation was positively correlated with Median Household Income.
 
-### Submission
+Oregon is recommended as the state for College Board to invest in due to several favourable factors:
+1. Over USD 70,000 in median household income, similar to Colorado and Illinois.
+2. Has an SAT Participation rate of under 50%.
+3. Also has a low ACT Participation of under 50%
+4. Is currently still using the Smarter Balanced high school tests, which are being phased out nation-wide.
+5. As an added bonus, Oregon is located on the west coast and is next to Idaho, California and Washington, all of which favour the SAT.
 
-**Materials must be submitted by the beginning of class on Sep 04.**
+### Data Dictionary
 
-Your technical report will be hosted on Github Enterprise. Make sure it includes:
+1. Using Only Given Data. This may be found in /data/final.csv:
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|state|object|SAT and ACT|State in the USA|
+|2018_ & 2017_sat_participation|float|SAT|%-Participation in SAT 2017 represented as a float from 0.0 - 1.0.|
+|2018_ & 2017_sat_ebrw|float|SAT|Average score of SAT 2017 Evidence-based Reading and Writing. Range from 200 - 800.|
+|2018_ & 2017_sat_math|float|SAT|Same as above, but for SAT 2017 Math.|
+|2018_ & 2017_sat_total|float|SAT|Sum of 2017_sat_ebrw and 2017_sat_math. Range from 400 - 1600. Indicative of student's overall SAT performance.|
+|2018_ & 2017_act_participation|float|ACT|%-Participation in ACT 2017 represented as a float from 0.0 - 1.0.|
+|2018_ & 2017_act_english|float|ACT|Average score of ACT 2017 English paper. Range from 1 - 36.|
+|2018_ & 2017_act_math|float|ACT|Same as above, but for ACT 2017 Math.|
+|2018_ & 2017_act_reading|float|ACT|Same as above, but for ACT 2017 Reading.|
+|2018_ & 2017_act_science|float|ACT|Same as above, but for ACT 2017 Science.|
+|2018_ & 2017_act_total|float|ACT|Average of 2017_act_english, 2017_act_math, 2017_act_reading, and 2017_act_science. Range from 1 - 36. Indicative of student's overall ACT performance.|
 
-- A README.md (that isn't this file)
-- Jupyter notebook(s) with your analysis (renamed to describe your project)
-- Data files
-- Presentation slides
-- Any other necessary files (images, etc.)
-
-**Check with your local instructor for how they would like you to submit your repo for review.**
-
----
-
-### Presentation Structure
-
-- **Must be within time limit established by local instructor.**
-- Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
-- Consider the audience. Assume you are presenting to non-technical executives with the College Board (the organization that administers the SATs).
-- Start with the **data science problem**.
-- Use visuals that are appropriately scaled and interpretable.
-- Talk about your procedure/methodology (high level, **CODE IS ALWAYS INAPPROPRIATE FOR A NON-TECHNICAL AUDIENCE**).
-- Talk about your primary findings.
-- Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
-
-Be sure to rehearse and time your presentation before class.
-
----
-
-### Rubric
-Your local instructor will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
-
-**Scores will be out of 21 points based on the 7 items in the rubric.** <br>
-*3 points per section*<br>
-
-| Score | Interpretation |
-| --- | --- |
-| **0** | *Project fails to meet the minimum requirements for this item.* |
-| **1** | *Project meets the minimum requirements for this item, but falls significantly short of portfolio-ready expectations.* |
-| **2** | *Project exceeds the minimum requirements for this item, but falls short of portfolio-ready expectations.* |
-| **3** | *Project meets or exceeds portfolio-ready expectations; demonstrates a thorough understanding of every outlined consideration.* |
-    
-**Project Organization**
-- Are modules imported correctly (using appropriate aliases)?
-- Are data imported/saved using relative paths?
-- Does the README provide a good executive summary of the project?
-- Is markdown formatting used appropriately to structure notebooks?
-- Are there an appropriate amount of comments to support the code?
-- Are files & directories organized correctly?
-- Are there unnecessary files included?
-- Do files and directories have well-structured, appropriate, consistent names?
-
-**Clarity of Message**
-- Is the problem statement clearly presented?
-- Does a strong narrative run through the project?
-- Does the student provide appropriate context to connect individual steps back to the overall project?
-- Is it clear how the final recommendations were reached?
-- Are the conclusions/recommendations clearly stated?
-
-**Python Syntax and Control Flow**
-- Is care taken to write human readable code?
-- Is the code syntactically correct (no runtime errors)?
-- Does the code generate desired results (logically correct)?
-- Does the code follows general best practices and style guidelines?
-- Are Pandas functions used appropriately?
-- Does the student demonstrate mastery masking in Pandas?
-- Does the student demonstrate mastery sorting in Pandas?
-
-**Data Cleaning and EDA**
-- Does the student fix data entry issues?
-- Are data appropriately labeled?
-- Are data appropriately typed?
-- Are datasets combined correctly?
-- Are appropriate summary statistics provided?
-- Are steps taken during data cleaning and EDA framed appropriately?
-
-**Visualizations**
-- Are the requested visualizations provided?
-- Do plots accurately demonstrate valid relationships?
-- Are plots labeled properly?
-- Plots interpreted appropriately?
-- Are plots formatted and scaled appropriately for inclusion in a notebook-based technical report?
-
-**Research and Conceptual Understanding**
-- Were useful insights gathered from outside sources?
-- Are sources clearly identified?
-- Does the student provide appropriate interpretation with regards to descriptive and inferential statistics? 
-
-**Presentation**
-- Is the problem statement clearly presented?
-- Does a strong narrative run through the presentation building toward a final conclusion?
-- Are the conclusions/recommendations clearly stated?
-- Is the level of technicality appropriate for the intended audience?
-- Is the student substantially over or under time?
-- Does the student appropriately pace their presentation?
-- Does the student deliver their message with clarity and volume?
-- Are appropriate visualizations generated for the intended audience?
-- Are visualizations necessary and useful for supporting conclusions/explaining findings?
-
-In order to pass the project, students must earn a minimum score of 1 for each category. 
-- Earning below a 1 in one or more of the above categories would result in a failing project.
-- While a minimum of 1 in each category is the required threshold for graduation, students should aim to earn at least an average of 1.5 across each category. An average score below 1.5, while it may be passing, means students may want to solicit specific feedback in order to significantly improve the project before showcasing it as part of a portfolio or the job search.
-
-### REMEMBER:
-
-This is a learning environment and you are encouraged to try new things, even if they don't work out as well as you planned! While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll be prepared to succeed in the workforce**.
+2. Adjusted to include outside data. This may be found in /data/final_with_outside.csv
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|state|object|SAT and ACT|State in the USA|
+|2018_ & 2017_sat_participation|float|SAT|%-Participation in SAT 2017 represented as a float from 0.0 - 1.0.|
+|2018_ & 2017_sat_total|float|SAT|Sum of 2017_sat_ebrw and 2017_sat_math. Range from 400 - 1600. Indicative of student's overall SAT performance.|
+|2018_ & 2017_act_participation|float|ACT|%-Participation in ACT 2017 represented as a float from 0.0 - 1.0.|
+|2018_ & 2017_act_total|float|ACT|Average of 2017_act_english, 2017_act_math, 2017_act_reading, and 2017_act_science. Range from 1 - 36. Indicative of student's overall ACT performance.|
+|2018_sat_part_diff|float|SAT|%-change in 2017 to 2018 SAT Participation, represented as a float between 0.0 - 1.0|
+|sat_main|boolean|Outside|Boolean indicating if SAT is already the state's adopted high school examination.|
+|act_main|boolean|Outside|Boolean indicating if ACT is already the state's adopted high school examination.|
+|parcc_main|boolean|Outside|Boolean indicating if state was still using the PARCC/Smarter Balanced high school examination.|
+|median_household_income|float|Outside|Median Household Income circa 2018 per State.|
