@@ -58,26 +58,26 @@ Oregon is recommended as the state for College Board to invest in due to several
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |state|object|SAT and ACT|State in the USA|
-|2018_ & 2017_sat_participation|float|SAT|%-Participation in SAT 2017 represented as a float from 0.0 - 1.0.|
-|2018_ & 2017_sat_ebrw|float|SAT|Average score of SAT 2017 Evidence-based Reading and Writing. Range from 200 - 800.|
-|2018_ & 2017_sat_math|float|SAT|Same as above, but for SAT 2017 Math.|
-|2018_ & 2017_sat_total|float|SAT|Sum of 2017_sat_ebrw and 2017_sat_math. Range from 400 - 1600. Indicative of student's overall SAT performance.|
-|2018_ & 2017_act_participation|float|ACT|%-Participation in ACT 2017 represented as a float from 0.0 - 1.0.|
-|2018_ & 2017_act_english|float|ACT|Average score of ACT 2017 English paper. Range from 1 - 36.|
-|2018_ & 2017_act_math|float|ACT|Same as above, but for ACT 2017 Math.|
-|2018_ & 2017_act_reading|float|ACT|Same as above, but for ACT 2017 Reading.|
-|2018_ & 2017_act_science|float|ACT|Same as above, but for ACT 2017 Science.|
-|2018_ & 2017_act_total|float|ACT|Average of 2017_act_english, 2017_act_math, 2017_act_reading, and 2017_act_science. Range from 1 - 36. Indicative of student's overall ACT performance.|
+|2018_ & 2017_sat_participation|float|SAT|%-Participation in SAT 2017 & 2018 represented as a float from 0.0 - 1.0.|
+|2018_ & 2017_sat_ebrw|float|SAT|Average score of SAT 2017 & 2018Evidence-based Reading and Writing. Range from 200 - 800.|
+|2018_ & 2017_sat_math|float|SAT|Same as above, but for SAT 2017 & 2018 Math.|
+|2018_ & 2017_sat_total|float|SAT|Sum of 2018_ & 2017_sat_ebrw and 2018 & 2017_sat_math, respectively. Range from 400 - 1600. Indicative of student's overall SAT performance.|
+|2018_ & 2017_act_participation|float|ACT|%-Participation in ACT 2017 & 2018 represented as a float from 0.0 - 1.0.|
+|2018_ & 2017_act_english|float|ACT|Average score of ACT 2017 & 2018 English paper. Range from 1 - 36.|
+|2018_ & 2017_act_math|float|ACT|Same as above, but for ACT 2017 & 2018 Math.|
+|2018_ & 2017_act_reading|float|ACT|Same as above, but for ACT 2017 & 2018 Reading.|
+|2018_ & 2017_act_science|float|ACT|Same as above, but for ACT 2017 & 2018 Science.|
+|2018_ & 2017_act_total|float|ACT|Average of 2018_ & 2017_act_english, 2018_ 2017_act_math, 2018_ & 2017_act_reading, and 2018_ & 2017_act_science, respectively. Range from 1 - 36. Indicative of student's overall ACT performance.|
 
 2. Adjusted to include outside data. This may be found in /data/final_with_outside.csv
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |state|object|SAT and ACT|State in the USA|
-|2018_ & 2017_sat_participation|float|SAT|%-Participation in SAT 2017 represented as a float from 0.0 - 1.0.|
-|2018_ & 2017_sat_total|float|SAT|Sum of 2017_sat_ebrw and 2017_sat_math. Range from 400 - 1600. Indicative of student's overall SAT performance.|
-|2018_ & 2017_act_participation|float|ACT|%-Participation in ACT 2017 represented as a float from 0.0 - 1.0.|
-|2018_ & 2017_act_total|float|ACT|Average of 2017_act_english, 2017_act_math, 2017_act_reading, and 2017_act_science. Range from 1 - 36. Indicative of student's overall ACT performance.|
+|2018_ & 2017_sat_participation|float|SAT|%-Participation in SAT 2017 & 2018 represented as a float from 0.0 - 1.0.|
+|2018_ & 2017_sat_total|float|SAT|Sum of 2018_ & 2017_sat_ebrw and 2018 & 2017_sat_math, respectively. Range from 400 - 1600. Indicative of student's overall SAT performance.|
+|2018_ & 2017_act_participation|float|ACT|%-Participation in ACT 2017 & 2018 represented as a float from 0.0 - 1.0.|
+||2018_ & 2017_act_total|float|ACT|Average of 2018_ & 2017_act_english, 2018_ 2017_act_math, 2018_ & 2017_act_reading, and 2018_ & 2017_act_science, respectively. Range from 1 - 36. Indicative of student's overall ACT performance.|
 |2018_sat_part_diff|float|SAT|%-change in 2017 to 2018 SAT Participation, represented as a float between 0.0 - 1.0|
 |sat_main|boolean|Outside|Boolean indicating if SAT is already the state's adopted high school examination.|
 |act_main|boolean|Outside|Boolean indicating if ACT is already the state's adopted high school examination.|
