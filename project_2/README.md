@@ -2,7 +2,7 @@
 
 In this project, our objective is to is to develop a model to predict the selling price of a given home in Ames, Iowa from the given datasets. This information can then be used for real estate and relevant industry to make predictions on the value of a home within Ames.  
 
-Our selected model performs well with with a root mean squared error (RMSE) of $30,000 on a dataset with a mean of $181,000.
+Our selected model performs well with with a root mean squared error (RMSE) of $30,000 on a dataset with a mean of $181,000. This represents a +-17% of variability in price. While the model may not be used definitively to determine price, it may be used as an estimator to find good prospects for investments based on property features alone.
 
 ## 1.1  Executive Summary
 Our process is summarized as such:
@@ -17,3 +17,5 @@ We have found that house prices are best prediced by its indoor area and feature
 Surprisingly, adjacent features (its surrounding area and amenities) and open areas (porches) do not and overall lot area do not correlate to the sale price as much. Further, very large houses tend to be predicted by another pricing algorithm.
 
 Our report could have been improved with better information on each home's location (their address) and information on when these sales prices were published. Time of sale affects the variability of the results significantly. For example, if these sales were made in an economic boom, sale price would be largely inflated. Conversely, in a recession, they would be deflated.
+
+Future work will include using OLS estimation to select variables before performing regression. We will also do research into Ames's neighbourhoods to estimate a desireability index for use instead of the neighbourhood factor being a dummy variable.
