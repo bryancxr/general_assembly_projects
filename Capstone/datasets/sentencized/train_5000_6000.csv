@@ -1,0 +1,844 @@
+,rev_id,sent_text,category,sentiment
+5000,655152325,"Received exactly what we booked, good sized room, good amenities, just not as practical as it should be.",room,1
+5001,655152325,Bed is rock hard.,room,-1
+5002,655152325,"Pillows are very good, but the bed kills your back.  ",room,-1
+5003,655152325,"You are a number only at this hotel, it is a great engineering feat but lags badly in being a warm feeling luxury hotel.",service,-1
+5004,655152325,We booked to use the club lounge and this was warmly met by the staff who were very nice and remembered us after a few visits.,service,1
+5005,655152325,The club is large but it needs to be as many guests have access.,service,0
+5006,655152325,"It has no feeling of exclusiveness, once full it has the feeling of a cheap cafeteria.",food,-1
+5007,655152325,"There are kids everywhere, no control with them, food on the floor and not cleaned up after they left.",food,-1
+5008,655152325,This was at multiple tables.,,0
+5009,655152325,Evening drinks should be drinks and,,0
+5011,655142731,There is something for everyone.,,0
+5012,655142731,From top designers to the truly unique.,experience,1
+5013,655142731,Restaurants from 5 star to a food court.,food,0
+5014,655142731,If you visit plan on being here for quite a while.,,0
+5015,655142731,It is very large .,,0
+5016,655142731,I think what coughs my eye first were the boats inside .,,0
+5018,655118745,Stayed at MBS for 2 nights with 4 other couples.,,0
+5020,655118745,Amazing facility where you don't have to go elsewhere to find food and lots of shopping.,others,1
+5021,655118745,Food court was amazing!.,food,1
+5022,655118745,Check-in staff very professional and accommodating.,service,1
+5023,655118745,Had 2 morning breakfast which is up on the 57th floor by the poolside.,food,1
+5025,655118745,"Kudos to waiters like Angelo, Rev and James for doing a superb job in taking good care of us.",service,1
+5026,655118745,These people are so wonderful and very friendly.,service,1
+5027,655118745,We will definitely stay again at MBS next time we travel to Singapore.,experience,1
+5028,655118745,"Almost forgot, the view while you're on the pool on 57th floor is nothing short of spectacular, especially at night.",pool,1
+5029,655118745,Make sure you give yourself time to relax on the pool- you'll be amazed.,pool,1
+5030,655118745,You will run out of selfie poses.,,0
+5031,655116728,We had one of the best rooms with great view overlooking river.,room,1
+5032,655116728,Unfortunately the room itself is a little outdated.,room,-1
+5033,655116728,You don’t feel specialty even with upgrades.,,0
+5034,655116728,The only amazing thing is infinity pool and you pay mainly for this .,pool,1
+5035,655116728,In general hotel is overpriced.,,0
+5036,655116728,Service is not helpful.,service,-1
+5037,655116728,We got charged 3 times more for taxi on the way to airport which was very disappointing.,others,-1
+5038,655111233,We stayed one night in a deluxe king garden view room which was around S$530.,room,0
+5039,655111233,Arrived 3 hours before check in and were delighted to be checked in early with staff friendly and very helpful.,service,1
+5041,655111233,"Room was very nicely decorated, clean and the view was amazing...",room,1
+5042,655111233,we were up around the 30th floor with a balcony overlooking the gardens at the bay.,room,0
+5043,655111233,"Good shower, firm bed and good air-conditioning.",room,1
+5044,655111233,"  Infinity pool is a must...amazing views, albeit very busy as expected with no shade.",pool,-1
+5046,655111233,"Cocktails at Spago Bar S$26 each, however very well made.",food,1
+5047,655111233,Recommend the skydeck.,pool,1
+5048,655111233,Room service ordered the night before for breakfast delivered on a table exactly on time and perfectly cooked.,food,1
+5050,655111233,Definitely worth the extra cost to stay at such an iconic location.,,0
+5052,655111233,The only negative I could see is that,,0
+5054,655110310,Stayed here during the formula 1....absolutely loved the pool...,pool,1
+5055,655110310,the pool can be busy but there is always some place where you can sit down... when they saw we were with a little kid they arranged an early check inn with Some extra pay....,service,0
+5056,655110310,that was great....,,0
+5057,655110310,the hotel for sure is expensive but its definately worth it.,,0
+5059,655110310,The good: - amazing pool and also the rest of the skypark is great  - Nice room with a great view - great atmosphere...its really alive - check inn and check out proces.,service,1
+5061,655110310,What can be better: - I missed the old bathroom amenities.,,1
+5062,655110310,The new merk was less good.,room,1
+5063,655110310,- it took considerable time before the amount quaranteed via my creditcard was finally settled.,,0
+5064,655110310,- its expensive.,,0
+5065,655065377,Our third stay and we will never tire of the marvellous rooftop pool and views.,pool,0
+5066,655065377,Pricey but worth it.,,1
+5067,655065377,Poolside snacks were very good value.,food,1
+5068,655065377,We prefer the rooms overlooking the harbour as fascinating to see all the tankers moored up and the view over the Gardens of the Bay.,room,1
+5069,655065377,Plenty opportunity to admire the city view from the rooftop.,experience,1
+5070,654944251,My wife and I went for 5 nights to Singapore.,,0
+5071,654944251,"As we didn't get reservations for 1 of the 5 nights at Marina Bay Sands (where we spent the balance 4 nights), we stayed at the nearby Marina Mandarin.",,0
+5073,654944251,"Our conclusion after the 5-day trip was that the Marina Mandarin was BETTER than Marina Bay Sands on all counts, except the choice of restaurants/bars at the latter.",food,1
+5075,654944251,The Concierge Desk is not able to get reservations at in-hotel restaurants for hotel guests.,service,-1
+5076,654944251,Waiting for Taxis is too long.,others,-1
+5077,654944251,The crowd at the Lobby is too large for a Luxury Hotel.,experience,-1
+5078,654939956,I stayed at this hotel for 1 night with my boyfriend on our stop over to Australia from the UK.,,0
+5079,654939956,This hotel has been on my bucket list since the moment I saw it and it did not disappoint.,experience,1
+5080,654939956,Yes the hotel is not the cheapest to stay at,,0
+5081,654939956,but I promise its worth every penny spent and is good value for money.,,0
+5082,654939956,You really do get what you pay for with this hotel <3,,0
+5083,654939956,Few tips I picked up along the way...   *,,0
+5084,654939956,* before you check in you need to check with some of the staff hovering by the check in queues which tower you are staying in.,,0
+5085,654939956,Each tower has its own check in desk and you don't want to queue in the wrong one,,0
+5086,654939956,"** we booked the ""standar"" room to keep the cost down and I use the term standard loosely.",,0
+5087,654939956,"The rooms are huge, the bed is huge, the shower is huge.",room,1
+5088,654939956,There was a sofa and very nice,room,1
+5089,654927443,"It’s clearly the most iconic hotel in Singapore but after staying there for two nights in a Club Room, it’s way overrated and overpriced - and thus the rating here at 2 stars.",,0
+5090,654927443,It was a nice room - but nice in terms of a mid range hotel brand nice.,room,0
+5091,654927443,It’s also just a massive complex that there is no sense of personalisation and you are truly just a number at this hotel.,service,-1
+5092,654927443,"There is also very little public areas to congregate, sit or wait in the lobby.",others,-1
+5094,654927443,It does have great views of the gardens and is convenient if you plan to just shop and gamble.,others,1
+5096,654927443,The pool was nice but again was underwhelming and rather crowded.,pool,-1
+5098,654927443,I’d recommend a stay some place else and swing by for a drink on the rooftop at one of their bars.,,0
+5100,654924941,"Rested with my husband in Singapore in the Marina Bay Sands hotel from 22-24.02.2019 in the Orchid Suite City View room on the 53rd floor, the view from the window over the city was amazing, in the evenings you can watch a laser show without leaving the room, on the roof of the hotel the 57th floor has a swimming pool and SkyPark, a viewing platform where you can enjoy the view of the city and take great photos, near the gardens and a huge shopping center, there is a museum and a casino.",experience,1
+5101,654924941,The place is simply amazing and it takes more time to visit all places than we were and not only therefore.,experience,1
+5102,654924941,"To swim and relax at the pool on, it was necessary to take places in advance, before breakfast.",pool,1
+5103,654924941,"At breakfast, too, we had to wait in the queue for 20-30 minutes when the omelet was fried,",food,-1
+5104,654921008,The reason I gave this title was because these big flash iconic hotels leave me cold.,,0
+5105,654921008,"One night here cost £100 more than a week in Bali and that included breakfast, whereas this place didn't.",,0
+5106,654921008,"But this isn't just about the hotel, it's a lot of Singapore I felt, very impersonal and not very friendly.",service,-1
+5107,654921008,You have to wait in a fairly long queue to check in,service,0
+5108,654921008,"but once you do the staff are very helpful but because my cards were on a security lock whilst I was abroad they locked the mini bar, so we couldn't even put the complimentary waters or anything else in there.",service,1
+5109,654921008,The rooms are huge with a great view across the bay and with every facility you could want but with what you are paying so you should have.,room,1
+5110,654921008,"We didn't eat at the hotel because value for money it is not, it's more of an experience",food,0
+5111,654917344,Had a slightly tired room on 47th floor with club 55 access for a couple of nights.,room,-1
+5112,654917344,People must come for pool photos as it was very busy and not at all relaxing.,pool,-1
+5113,654917344,The same comments apply for the club 55 lounge.,food,0
+5114,654917344,Massive hotel so you can't expect quiet.,experience,-1
+5116,654917344,Obviously great views,room,1
+5117,654917344,but I easily prefered Ritz Carlton opposite.,,0
+5119,654749125,We stayed in the straits suite for one night and it was over the top.,room,1
+5120,654749125,"We had a karaoke room, small gym, two bedrooms with one queen bed and two king beds and one of the bedrooms had a big bath, small kitchen corner, huge living room with a piano, dining table and sofas.",room,1
+5121,654749125,"The room was on the 52th floor and the view was amazing ofcourse, especially at night.",room,1
+5122,654749125,"Really loved the infinity pool on the roof, it was extremely cool and not frightening at all.",pool,1
+5123,654672742,"Great room, view, infinity pool, breakfast, ... we loved it all!",food,1
+5124,654672742,"Yes it is expensive, but it is worth the money for a one time experience :-)",experience,0
+5125,654672742,We had a Club room in Tower 2 level 49 and the view from the room was great!,room,1
+5126,654672742,We were lucky to even watch the fireworks from our huge room window.,others,1
+5127,654672742,"We also went to the light show at Supertree Gardens by the Bay which was amazing, and the Hotel gave a perfect ""background"" due to its spectacular architecture!",others,1
+5128,654646834,"One of the most iconic hotels in the world, boasting of the worlds largest infinity pool.",pool,1
+5129,654646834,The hotel consists of innumerable restaurants but however are pretty full so a reservation might be required.,food,0
+5130,654646834,The view is mind boggling,,0
+5131,654621775,Stayed here for one night in a Premiere room.,room,0
+5133,654621775,"The room was nice; very clean, comfortable and spacious with a beautiful City view on the 31st floor of he 2nd tower.",room,1
+5134,654621775,We visited the Sky Park/infinity pool and it was incredible.,pool,1
+5135,654621775,We went for a swim and enjoyed cocktails poolside.,food,0
+5136,654621775,The views were incredible and the pool was amazing.,pool,1
+5137,654621775,As a hotel guest we had free access to these facilities.,others,1
+5138,654621775,"Others who are not staying at the hotel can't have access to the pool, but can have access to the bars and restaurants at the pool level for 22 SGD.",pool,0
+5139,654621775,While at the hotel we also visited the gardens and mall that was adjacent to the hotel.,others,0
+5140,654621775,We also ate at two of the restaurants --Rise and Blossom.,food,0
+5142,654621775,The buffet at RISE was amazing.,food,1
+5144,654621775,The staff at this hotel were wonderful.,service,1
+5146,654621775,I would definitely stay,,1
+5147,654586991,Came here 2 years ago and was blown away by the view and welcoming from bar staff .we bought a bottle of fizz,food,1
+5148,654586991,"and they were attentive to our needs .this year a very different story you need to aquire a $22 pass to get up their which comes off a drink ,you couldn't get near the edge to take photos as each table had a bottle of vodka on at £170 which gave you the right to stay as long as you wished .seems",food,0
+5149,654586991,"this is now a place only for the rich and the staff made it clear ,very rude and not a pleasant experience .For",service,-1
+5150,654586991,a lovely hotel lots of people walking around in dressing gowns (very strange) .last time for us ...,experience,0
+5152,654508424,Feedback following a recent two night stay in a twin room in a low room on Tower 1.,room,0
+5154,654508424,"The room was nice; very clean, comfortable and spacious.",room,1
+5155,654508424,"However due to the large size of the hotel (which feels more like a conference center) and it’s design, our room was overlooking the reception counter / lobby area at the very front of the building and didn’t feel very private.",experience,0
+5156,654508424,"In saying that, I was surprised that the room was quiet and we didn’t hear much noise from the lobby.",room,1
+5158,654508424,"However the main reason one would stay here is for the Sky Park/infinity pool and I was overly impressed with this, and would stay again purely to access these facilities.",pool,1
+5160,654508424,"Due to the size of the pool and number of restaurants, there was always sufficient space and room to sit.",food,1
+5162,654507012,Recently stayed in a Club Room in the Marina Bay Sands well worth upgrading!,room,1
+5163,654507012,"The Club55 breakfast, afternoon tea and evening beverages and canapés were all outstanding.  ",food,1
+5164,654507012,The service in Club55 was excellent from the start of service to the end.,service,1
+5166,654507012,The room was nicely appointed with fabulous view of the gardens.,room,1
+5168,654507012,The infinity pool is amazing although very busy best to be up early to experience it fully.,pool,1
+5169,654507012,Loved my stay at the Marina Bay Sands can’t wait to return!,experience,1
+5170,654500254,We decided to visit the top of the Marina Bay Sands Hotel from the Hop on Hop off bus.,,0
+5171,654500254,It cost 22 Singapore dollars and we got a drink in at the bar on the top of this fantastic Hotel.,food,1
+5172,654500254,"It was marvelous, the views the ambience, being able to see the Infinity pool (but not go in or around it) was such a great experience.",pool,1
+5173,654500254,Will never forget.,,0
+5174,654418946,"The hotel is conveniently located near most of the major tourist attractions, so you don't have to travel far if you are only in the city for a couple days.",,0
+5175,654418946,The rooms had very updated amenities (ie. automatic curtains) and were definitely above-average for hotel rooms.,room,1
+5177,654418946,"The pool of course had the amazing infinity pool, however the rooftop lacked any seats with shade near the pool.",pool,1
+5178,654418946,"It would be nice if there were some umbrella to cover some of the chairs, because being up there without any protection from the sun is a little overwhelming.",pool,-1
+5179,654418946,The pool does have a blocked off section for adults-only which is nice if you are travelling without children.,pool,1
+5180,654410279,I stayed here for 3 nights and probably wouldn't consider booking here again.,,0
+5181,654410279,There's a bit of 'been there done that' mentality.,,0
+5182,654410279,"I was intrigued by the overall hype of the hotel and thought I'd give it a shot, over my usual stays in Singapore.",,0
+5183,654410279,"Beyond the actual room itself, I don't think there's anything special about the hotel.",room,0
+5184,654410279,Pros:  - The room was new and clean.,room,1
+5185,654410279,"I really liked how there were outlets everywhere, including USB ports.",room,1
+5186,654410279,Definitely very helpful.,,0
+5188,654410279,"It's convenient, plenty of public transport option -",others,1
+5189,654410279,"Obviously, it's central to Gardens by the Bay, which is a huge plus.",others,1
+5191,654410279,Cons (unfortunately it's a long list)  - Check-in was very slow.,service,-1
+5192,654410279,"I arrived on 8:45pm on a Tuesday night, and there were only 2 people at Check-in with a line of about 10 guests.",service,0
+5193,654410279,With such a big,,0
+5194,654398971,Stayed here as we met relatives there for a reunion.,,0
+5195,654398971,Thought we’d treat ourselves as we had heard the hype about this place.,,0
+5196,654398971,This place was an absolute nightmare.,experience,-1
+5197,654398971,Booked on their website for a family of four.,,0
+5198,654398971,Arrived to find essentials 2 tiny double beds for 4 people.,room,-1
+5199,654398971,"My husband spoke to reception about the fact that it was not suitable for 4 people, even though the website recommended it for 4 people.",service,0
+5200,654398971,They eventually agreed to bring up a fold out bed.,service,0
+5201,654398971,But it took hours and multiple requests for it to arrive.,,0
+5202,654398971,The famous pool up top was absolutely freezing!,pool,-1
+5203,654398971,I didn’t swim in it once!,pool,-1
+5204,654398971,One is the spas was closed too.,pool,-1
+5205,654398971,So the one tiny spa that was there held about 10 bodies in essentially an over sized bath tub.,,0
+5206,654398971,It was so gross.,,0
+5207,654398971,There was nothing to do here for families.,experience,-1
+5210,654398626,Provided we got the cheapest room at only $500 a night...,,0
+5211,654398626,"it was just your run of the mill standard, nice motel room.",room,0
+5212,654398626,Our balcony was genuinely about 20cms wide but was still nice to have a breeze.,room,1
+5213,654398626,But let’s get to the reason we chose to stay here...THAT pool.,,0
+5214,654398626,Honestly it is amazing.,,0
+5215,654398626,We visited the pool directly after check in (which is supposed to be 3pm,service,0
+5216,654398626,"but they told us our room was ready at 2pm which was great!), again that night quite late (it shuts at 11pm), and then in the morning around 7am (it opens at 6am but is still dark then).",,0
+5217,654398626,The best time was the early morning.,,0
+5218,654398626,Less crowded and an all round nicer experience.,,0
+5219,654398626,"Don’t get me wrong, STILL quite crowded but nothing on the afternoon and evening.",,0
+5220,654398626,There are photographers in the pool too who will clear a shot for you which is,pool,0
+5221,654381990,"The Skypark and swimming pool and hot jacuzzi pools with a great view, wow!",pool,1
+5222,654381990,The view from the rooms wow!,room,1
+5223,654381990,If you get one that faces a view.,,0
+5224,654381990,We had one that faces the marina and watched the light show from there.,other,0
+5225,654381990,"The 5 to 7pm free cocktail is great, do not miss it.",food,1
+5226,654381990,Free Teatime 2 to 4 pm is ok.,food,0
+5227,654381990,Breakfast is ok.,food,0
+5228,654381990,If you drive in valet parking is cheaper and more convenient.,others,0
+5229,654381990,"Worth at least 1 visit for us locals but very crowded, should do weekdays instead of weekends.",,0
+5230,654381990,Obviously doing very well.,,0
+5231,654366568,"This hotel, it’s enormous.",experience,0
+5232,654366568,I thought seeing as I was only in Singapore for a short time I would splurge.,,0
+5233,654366568,"For once in a lifetime, totally worth it.",,0
+5234,654366568,"I had a beautiful view of the harbour and gardens, absolutely breathtaking.",room,1
+5235,654366568,"The infinity pool gets quite busy, if you go first thing at 6am definitely less so.",pool,0
+5236,654366568,It’s right in the middle of many Singapore attractions so on a short stay it’s brilliant.,others,1
+5237,654366568,"Expensive and busy, but this place is worth the hype.",,0
+5238,654345413,"Well, I saw pics..thought, yeah right.",,0
+5239,654345413,This was more than,,0
+5240,654345413,"yeah right, fantastic hotel, stunning city, lovely people..",experience,1
+5241,654345413,and I don’t like cities or people!,,0
+5242,654345413,You have to visit/stay here...add to your bucket list ..,,0
+5245,654332929,What a great hotel!,experience,1
+5246,654332929,"Friendly staff, quick check in and check out procedure.",service,1
+5247,654332929,They even upgraded us to a better room.,service,1
+5248,654332929,Highly recommend this hotel (even if it's just for use of the best swimming pool),experience,1
+5249,654332929,The only downside was you need your room key to access the pool toilets which was a bit annoying.,pool,-1
+5250,654220218,We stayed here for a few days stop-over on route to Australia.,,0
+5251,654220218,"Good location, big resort style hotel.",,0
+5252,654220218,Check in was extremely slow and cumbersome.,service,-1
+5253,654220218,It is a very busy place and a tourist attraction in itself.,experience,0
+5254,654220218,This doesn’t always help the ambience.,experience,-1
+5255,654220218,The oool deck is the taking point.,pool,0
+5256,654220218,"Again, very busy, but people come and go",,0
+5257,654220218,"and so we were able to find beds, but not instantly.",,0
+5258,654220218,"Food provision, very good.",food,1
+5259,654220218,Had an issue over a breakfast charge but it was resolved but not easily.,food,-1
+5260,654220218,I did have to raise a complaint.,,-1
+5261,654220218,"Overall, we are glad we stayed.",experience,1
+5262,654220218,It was enjoyable.,experience,1
+5263,654220218,It is difficult for these type of hotels to be truly a “luxury” experience when they are so big and busy.,experience,-1
+5264,654220218,I think check in and check out could be made more efficient and management more visible.,service,1
+5265,654219599,Amazing amazing amazing!,,1
+5266,654219599,the view just amazing.,,1
+5267,654219599,"Stayed at a room facing garden view, it was totally worth it.",room,1
+5268,654219599,You get a big balcony overlooking the gardens by the bay which lit up at night.,others,1
+5269,654219599,"The trip was a surprise birthday present from my partner, surprise cake were arranged after we had our dinner.",food,1
+5270,654219599,"the lobby is expansive with lots of good dining and small shops, the infinity pool is absolutely amazing and more dining on roof area.",pool,1
+5271,654219599,Staying in MBS gives loads of perks access to the mall and dining.,,1
+5272,654219599,Reception staffs are friendly they knew we were looking exhausted gave out complimentary water while checking us in.,service,1
+5273,654219599,Process were very quick.,,0
+5275,654219599,Definitely a place to stay to relax and away from the Orchard Road hustle and bustle.,experience,1
+5276,654219599,"Cleanliness is also awesome, the girl who responsible",room,1
+5277,654216141,Marina Bay Sands is probably what makes singapore super famous.,,1
+5278,654216141,"However, the hotel rooms are small and very expensive.",room,-1
+5279,654216141,People go there definitely just want to snap photos at the infinity pool.,pool,0
+5280,654216141,"However, its not worth it.",,0
+5281,654216141,You can find a better priced hotels near orchard road with decent stay.,,0
+5282,654151329,I totally get the appeal of this hotel.,,0
+5283,654151329,The pool on the rooftop is second to none.,pool,1
+5284,654151329,It is incredible to spend time up there and enjoy the views of the city while in the infinity pool.,pool,1
+5285,654151329,However this is not an inexpensive hotel and given the rates one must pay and expect significantly better rooms.,,0
+5286,654151329,Wallpaper is coming off in the bathroom there are stains on the wall and I got to bed only to find my comforter full of stains.,room,-1
+5287,654151329,Of course the issue with the comforter was resolved but it’s hard to understand how the issue was missed.,,-1
+5289,654124118,Marina Bay Sands is so iconic!,,0
+5290,654124118,It has the perfect location and the most fabulous views.,others,1
+5291,654124118,The rooms are well appointed.,room,1
+5292,654124118,We had a balcony overlooking the Gardens by the Bay.,room,0
+5293,654124118,"The Gardens side is lower price than the city side, but I think the day and night views of the Gardens are so great I'd pay more to stay there.",others,1
+5294,654124118,The infinity edge pool on the top of the hotel is AMAZING.,pool,1
+5295,654124118,We went early in the morning and it wasn't too crowded or too hot.,,0
+5296,654124118,"Be sure to get pictures of the pool, over the edge, and the city views.",pool,1
+5297,654124118,The hotel is very large and I had recently had knee surgery so it was hard to get around.,,0
+5298,654124118,They offered a free wheelchair which was very helpful.,,1
+5299,654124118,The lobby restaurants and room service were both excellent.,service,1
+5300,654124118,"The Casino is attached to the hotel, but it is a walk.",others,0
+5301,654124118,There is also,,0
+5302,653971343,The wow factor starts as you arrive and look up at the 3 towers.,experience,1
+5303,653971343,Superb views looking over the gardens or the bay.,others,1
+5304,653971343,The pool and the bars/restaurants have superb views.staff are really polite and helpful and can’t do enough to help.,service,1
+5305,653926600,"Read all the reviews and would agree this is a must stay once in your lifetime hotel, and we have taken advice from reading Trip Advisor contributions and are stating 2 nights and 3 days.",experience,1
+5306,653926600,"2500 rooms is 5000 guests, so don’t come here and expect it to be cosy, come with open eyes and an open mind.",,0
+5307,653926600,"We arrived early, room wasn’t ready but was given access to the Skypark, infinity pool and club 55.",others,1
+5308,653926600,Fantastic customer support.,service,1
+5309,653926600,"Emailed when the room was ready, wife stayed in Club 55 I got the keys, shown a Sands Club line, given a bottle of water as I waited.",service,1
+5310,653926600,"Thank you, fantastic customer support.",service,1
+5311,653926600,"Our room is fantastic, an Orchid Suite and the view over Marina Bay.",room,1
+5312,653926600,A must see in your lifetime,,0
+5313,653917304,We came here the last night of our Singapore trip to try the pool.,pool,0
+5314,653917304,"The lobby is immense I felt somwhow lost in it, The check in went well, but I always had the feeling waiting for ages for the elevators.",others,0
+5315,653917304,My mum mentioned it is like a big train station and she was right.,,0
+5316,653917304,"The service was efficient but faceless,",service,0
+5317,653917304,"In the lobby area there was no place to sit down and relax, which I found it strange and odd.",experience,-1
+5319,653917304,"The place is crowded, we went to have breakfast at 6:30  but here were already so many people there, I could not believe it.",food,0
+5320,653917304,The pool has amazing views but it was crowded as well in the afternoon we could hardly find free sunbeds.,pool,0
+5321,653917304,"The waters is cold, and if you go to the jacuzzi it is way too hot and I am convinced they do it on pourpse!!",pool,-1
+5322,653917304,Our room was okay with a nice view on the,room,1
+5323,653845157,"To go up to the top we took advantage of the Ce La Vi bar, were it costs 22SGD to enter the bar.",food,0
+5324,653845157,It has fantastic views on which your entry goes towards a free drink plus the tax.,food,1
+5325,653845157,"To go up to the observation deck it’s the same price, which is only a few steps down from the bar.",others,0
+5326,653845157,No brainer really to go to the bar and get your drink that’s included in your ticket price.,food,0
+5327,653836517,Hotel is beautiful and clean.,experience,1
+5328,653836517,The infinity pool is the best thing about the hotel.,pool,1
+5329,653836517,Once you check out you cannot go to the swimming pool area which seems crazy as check out is early (11am).,service,-1
+5330,653836517,Our flight was not until much later that night so we had to go to the shopping center across the road for the day.,others,0
+5331,653836517,Paid $25 for a cocktail that came half full.,food,-1
+5332,653830174,We stayed for one night in order to experience the infinity pool.,pool,0
+5333,653830174,The whole experience was unenjoyable.,experience,-1
+5334,653830174,The hotel is badly designed.,experience,-1
+5335,653830174,"Too big, lacks personality, no personal service at all.",experience,-1
+5336,653830174,You are just another number being shipped in and out of this vast cavern.,,0
+5337,653830174,Infinity pool has a good view but that is it.,pool,1
+5338,653830174,"Overcrowded, no beds available.",,-1
+5341,653830174,Everyone is stressed out !,,-1
+5342,653830174,There are sporadic nice staff that are friendly but they seem to be beaten down by the atmosphere.,service,-1
+5343,653830174,A lot of miserable security staff.,service,-1
+5344,653830174,Wouldn’t return if someone paid me.,experience,-1
+5346,653824984,this hotel goes above and beyond to make you feel like complete royalty!,service,1
+5347,653824984,the pool us out of this world!,pool,1
+5348,653824984,"its a little chilly up there so bring your robe, but the water is  perfect!",pool,1
+5349,653824984,we also had breakfast on the 57th floor in the morning and it was wonderful!,food,1
+5350,653824984,definitely worth it.,,0
+5351,653824984,i highly recommend this hotel,experience,1
+5352,653688809,"A fabulous hotel, albeit massive!",experience,1
+5353,653688809,Went to the Cest la Vie restaurant to watch the Chinese New Year light show and fireworks.,,0
+5354,653688809,Register for Sands membership (free) for free entry .,others,1
+5355,653688809,Entrance through the hotel for Gardens by the Bay,,0
+5356,653666303,We arrived from the airport and had to join a long queue for check in.,service,-1
+5358,653666303,To fair the queue went down quite quickly but not really what you expect for that money.,service,-1
+5360,653666303,We were allocated a room in Tower 3 and we requested a bay view and a high floor and that is what we got.,room,0
+5362,653666303,We were early for check in but the check in clerk advised us 'we looked tired' so we could have our room early....,service,0
+5363,653666303,not sure if I was instuled or pleased to get our room early.,service,1
+5364,653666303,Room was lovely but nothing special but great views and really good a night when everything start to get lit up.,room,1
+5365,653666303,We were there in chinese new year....bad mistake so the pool was just overrun by people.,experience,-1
+5367,653666303,We had a dip in it but to be honest the pool was quite cold.,pool,-1
+5368,653666303,The lifeguards are excellent and quite quickly blow the whistle at idiots,pool,1
+5370,653616761,"A wonderfully iconic hotel with over 2,500 rooms, which shows when you try to move around.",experience,1
+5371,653616761," Fantastic staff who do a wonderful job - the room service and concierge service was excellent but for that price, I want impeccable in everything.  ",service,1
+5372,653616761,"Unfortunately, it was Chinese New Year when we were there, so the 57th floor rooftop swimming pool was almost standing room only; but now been there, done that, got the photo.",pool,0
+5374,653616761,"Prices are room only and we found it cheaper and less stressful to have room service breakfast, which was excellent and delivered bang on time - TIP - choose a city view room as breakfast by a picture window on the 40th floor was stunning.  ",room,1
+5375,653616761,Easy walking around the harbour and also the magnificent Gardens by the Bay.,others,1
+5376,653600900,Room was clean and spacious.,room,1
+5377,653600900,We got the garden view which was lovely and very beautiful at night.,room,1
+5378,653600900,Staffs are very friendly and helpful.,service,1
+5380,653600900,"However, we had a terrible time during check-in (13 Feb 2019).",,-1
+5381,653600900,We arrived at 1.30pm and was hoping that we can check-in earlier.,service,0
+5382,653600900,"But when we saw the queue at least 30 people in front of us, we asked one of the staff which he suggested us to come back later in the afternoon as their system was  down.",service,0
+5383,653600900,At 2.50pm we came back and saw the queue at the Tower 1 was ridiculously long until it reached the entrance door!,experience,-1
+5384,653600900,So we had to go to the Tower 3 and it was more than an hour wait till we get to the check-in counter.,experience,-1
+5385,653600900,We got to the check-in counter at 4.10pm and finally entered our room at 4.20pm and the luggage arrived 30 minutes after.,room,0
+5387,653597496,The room crew was very rude to ignore our requests.,room,-1
+5388,653597496,My daughter wanted to have extra pillow but was denied and the crew banged the door after room service.,room,-1
+5389,653597496,Was expecting better treatment as the payment charged is not a joke at all.,room,-1
+5390,653443015,This was a very plush hotel.,experience,0
+5391,653443015,The infinity pool is jaw dropping.,pool,1
+5392,653443015,A short walk from the marina with amazing views and restaurants.,others,1
+5393,653443015,I am vegan and found it a little difficult in the hotel but a short walk round the corner found a Gordon Ramsay with a full vegan menu option.,others,1
+5394,653443015,There is a mall on the ground full of beautiful shops and cafés.,others,1
+5395,653443015,The bars are fairly expensive but I suppose you expect this in a luxury venue.,food,0
+5396,653443015,"The room we had was garden view and man, what a garden.",room,1
+5397,653443015,The botanical gardens are right outside and at night looked magical.,others,1
+5398,653443015,"Thoroughly recommend this hotel, you must get in that pool, cold as it is.",pool,1
+5399,653443015,The photographers are there on call but there are beds around the pool you can rest your phone/camera on.,pool,0
+5400,653443015,"Towels are handed out and cocktails are available, as are nibbles.",food,0
+5401,653414779,We booked and stayed at a Club King room for 3 nights (as suggested by many on Trip Advisor) - this turned out to be a great decision.,room,1
+5402,653414779,The room is spacious and can easily fit 4 of us (2 adults and 2 children).,room,1
+5403,653414779,"We also had access to the Club55 for breakfast, while there were usually queues at other restaurants.",food,0
+5405,653414779,The view from the room was just simply breathtaking.,room,1
+5406,653414779,The indefinite pool at the top is great but always full - it is difficult to even take a photo without others in it...,pool,-1
+5407,653414779,No kids club nor any kids playing facilities in the hotel - which was disappointing.,others,-1
+5408,653325292,We had a 2 night stay at the Sands prior to our 12 day cruise to Tokyo.,,0
+5410,653325292,The hotel was very nice food at Spago's was exceptional.,food,1
+5411,653325292,"However, it was very crowded and more like a Vegas experience.",experience,0
+5413,653325292,"Which is not bad, just not the place to go for a relaxing quiet stay.",,0
+5414,653325292," Rooms were very nice, staff generally friendly.",service,1
+5416,653325292,Long lines for most things like breakfast and the roof top pool area.,pool,0
+5418,653325292,Overall worth a visit once I think.,,0
+5419,653255281,"As we all know about Singapore, this building is just a result of what Singapore is all about.",,0
+5421,653255281,I will certainly will be back and this time I will make sure I will have a chance to swim in their infinity pools,pool,0
+5422,653245858,While all 5-Star hotels in Asia offer pretty much the same amenities and level of service it’s still worth the experience of staying at Marina Bay sands.,service,1
+5424,653245858,The hotel itself is a tourist attraction with as many shops and restaurants as you can imagine.,food,1
+5426,653245858,"The views are stunning from everywhere, we stayed in a garden view suite which had a lovely patio where we could enjoy morning breakfast overlooking the Gardens by the bay.",room,1
+5428,653245858,The pool is crowded but still worth it to get the perfect picture of you at the infinity pool!,pool,1
+5430,653129043,"Stayed in a standard  double room, which I was suprised the rooms are very big.",room,1
+5431,653129043,Bathroom come with a deep bathtub and a large shower.,room,0
+5432,653129043,The rooms are presented very well.,room,1
+5433,653129043,View to marina bay was unreal!,experience,1
+5434,653129043,"Gym facilities are below average considering this is meant to be a five star hotel, they need more weights equipment.",others,-1
+5435,653129043,The pool area on the 15th floor is very busy but the view is breathtaking.,pool,1
+5436,653129043,Don’t bother swimming because everyone is here for a selfie.,pool,0
+5437,653129043,"The pool is not deep, so you can swim around with your camera.",pool,0
+5438,653129043,This hotel is very busy,experience,0
+5439,653129043,and so when I checked in I had to pay $400 Singapore dollars for a deposit then was told when I checked out I will get my deposit 2 weeks later?!,service,-1
+5440,653129043,They need better training of the front desk with customer service skills.,service,-1
+5441,653129043,I think next time I visit,,0
+5442,653127316,Place is elegant and luxurious.,experience,1
+5443,653127316,Been here for a 1 day conference and the conference halls are quiet good with the lighting and equipments it has.,others,1
+5444,653127316,at night was able to witness an awesome show of lights and fountains synchronously moving resulting to a one of a kind show.,others,1
+5445,653116804,It's an icon.,,0
+5446,653116804,You want to stay there.,,0
+5447,653116804,"You need to stay there, so you can get an Instagram photo of you in the pool.",pool,0
+5448,653116804,And that is a great reason to book a room because only hotel guests can access the pool.,pool,1
+5449,653116804,"However.....this is not a 5-star hotel, despite the 5-star prices.",,0
+5450,653116804,Don't expect Ritz-Carlton/,,0
+5451,653116804,"Taj/Peninsula like comfort, accommodations, or service.",,1
+5452,653116804,"The Marina Bay is more like a Las Vegas type ""five-star"" property.",experience,0
+5453,653116804,"Everything was fine, but it's a gigantic place and more an impersonal mega-resort than a luxury hotel.",experience,-1
+5454,653116804,"If you have never been to Singapore (we had not), it's almost a must.",,0
+5455,653116804,"But on your second trip, book a more comfortable hotel at half the price elsewhere......assuming you were able to take that infinity pool pic the first time.",pool,0
+5456,653103774,Let's be real here.,,0
+5458,653103774,"If it's your first time in Singapore, there is no point in staying anywhere else because if you do you will always stare up in envy at this iconic hotel and wonder what it's like to chill out in that ridiculous infinity pool on top--which you can ONLY do if you stay at this hotel.",pool,1
+5460,653103774,I booked the MBS before I booked my flight because if I couldn't stay there I wasn't going to Singapore.,,0
+5462,653103774,"Very few places live up to the hype, but the top of the MBS does big time.  ",pool,1
+5463,653103774,It was more spectacular than I imagined.,,1
+5465,653103774,When we went the weather was iffy the whole time and we had more than our share of rain/thunderstorms.,experience,-1
+5467,653103774,I was stressing that we wouldn't be able to swim but during our whole 4 day stay they only closed it once for 30 minutes due to lightning.,pool,0
+5469,653103774,"Yes, this place",,0
+5470,653079408,The structure itself is amazing with the 3 towers capped off with a huge infinity pool.,experience,1
+5471,653079408,There are gardens near here that are absolutely amazing.,others,1
+5472,653079408,The inside of the lobby was massive with several eating areas.,food,0
+5473,653079408,The food was rather expensive but good.,food,1
+5474,653037760,And also the most expensive!,,0
+5476,653037760,"Since I was only going to stay one night, why not go all out.",,0
+5478,653037760,"So, I plunked down over $500 USD for a Harbor view room on the 2nd to the top floor in the hotel.",room,0
+5480,653037760,Lower floor rooms on the Gardens By the Bay side are cheaper.,room,0
+5481,653037760,"Still, everyone goes for the iconic rooftop infinity pool (the highest in the world) and any stay grants you access.",pool,0
+5482,653037760,"And of course you must visit the pool, but be prepared to act like a shark circling it's prey in order to get a coveted lounge chair.",pool,0
+5484,653037760,We were outmaneuvered a couple of times but finally got our chairs!,pool,0
+5486,653037760,Our room was absolutely amazing and HUGE!,room,1
+5488,653037760,"With a seperate desk and seating area, my whole family could have lived in that room.",room,0
+5490,653037760,What I liked most about the room were the floor to ceiling windows that gave us an,room,1
+5491,653023268,We stayed for two days at the end of a cruise and just wish we could have stayed longer we loved it,room,1
+5492,653023268,"The roof top pool is something quite special although a little cold  , the views are staggering  ",pool,1
+5493,653023268,Do not miss the light show in the gardens at the rear of the hotel which you can walk to from the hotel,others,1
+5494,653023268,This hotel has everything there is a shopping mall attached so you can simply walk down to the shops,others,0
+5495,653023268,Do not miss this !,,0
+5496,653022068,We stayed here in April 2018.,,0
+5497,653022068,We were upgraded by the lovely woman on the desk as it was our anniversary.,service,1
+5498,653022068,The room was spotless and absolutely gorgeous.,room,1
+5499,653022068,We had the best view over Singapore and honestly could not have asked for anything more.,room,1
+5500,653022068,The infinity pool and the service from the staff were also second to none!,service,1
+5501,653022068,Don’t have a bad word to say about Marina Bay Sands and can’t wait to come back!!,experience,1
+5502,652930738,We stayed at the MBS in April 2018 with my two year old daughter.,,0
+5503,652930738,This was part of our trip we also stayed a few days on Sentosa Island.,,0
+5504,652930738,The MBS check in procedure is a bit hectic with long queues.,service,0
+5505,652930738,There wasn't really any where to so I was glad to have had our pushchair.,,0
+5506,652930738,"The lobby is vast and full of people, far too busy you didn't know who were tourists and who were residents.",service,0
+5507,652930738,Once checked in we made our way to our room on the 18th floor overlooking the Marina Bay Gardens which was fabulous.,room,1
+5508,652930738,The room was clean and spacious and the bathroom had a separate bath and shower the bath in particular was luxuriously big.,room,1
+5509,652930738,The main reason we booked to stay here one night was the pool to be brutally honest.,pool,1
+5510,652930738,"It really is a fabulous pool, with fabulous views.",pool,1
+5511,652930738,There were plenty of beds and,,0
+5512,652811370,I don’t even know where to start.,,0
+5513,652811370,As a traveller.,,0
+5514,652811370,I can confirm this the best hotel I have ever stayed so far.,experience,1
+5515,652811370,Is not because of the infinity pool.,pool,0
+5516,652811370,is just because customer priority is more important,service,1
+5517,652811370,I took my there for big birthday.,,0
+5518,652811370,"On the day of the birthday, she has decided no go swim very early morning which quest stressful to me because I have plan for In-Room Dining for her as big surprised.",pool,1
+5519,652811370,"  I rushed to their big washroom to quickly send email with subject ""urgent” to change the time of In-Room dinning because Mrs decided to swim very early on her birthday.",service,0
+5521,652811370,Within 30 minutes of my email I got call that their team is by the door to deliver the surprise.,service,1
+5522,652811370,They deliver all the request included extra eggs and sausage and Birthday “Moet Chandon Imperial Brut” for my,food,0
+5523,652678858,"I'm really enjoy staying in Marina Bay Sands,especially front deck and concierge very helpful.",service,1
+5524,652678858,"Pool are really awesome,my friends really enjoy staying in this big hotel.",experience,1
+5525,652678858,Very near to the flyer and Marina bay Shoppes.,others,0
+5526,652678858,Thanks you so much,,1
+5527,652675912,The price of this hotel was well above what it should be.,,0
+5528,652675912,The lobby at check in is just a massive scrum of people.,,0
+5529,652675912,Everyone taking photos.,,0
+5530,652675912,Check in took almost 30 mins.,service,-1
+5531,652675912,"Our room had the most spectacular views it has to be said, but it felt tired.",room,-1
+5532,652675912,I just feel the hotel needs a makeover to bring it into the 2019 era and to match the asking price.,room,-1
+5533,652675912,"But, I guess for most people it’s a chance to ‘check’ themselves in on social media and keep up with the jones’.",,0
+5534,652634757,This hotel was the biggest and the most fantastic hotel I’ve ever had the pleasure of staying.,experience,1
+5535,652634757,"Food , drink staff facilities were second to none .",service,0
+5536,652634757,The infinity pool on top level absolutely unbelievable.,pool,1
+5537,652634757,"Worth paying extra money to be in suite 55 area free food and drink certain times of the day was plentiful and staff were fantastic, definitely worth a visit",service,1
+5538,652556545,We stayed at the Marina Bay Sands for 1 night before our cruise during the Christmas holiday.,,0
+5539,652556545,The lobby holiday decor was beautiful.,others,1
+5540,652556545,"Check-in was smooth, the room was very clean, comfortable, and the view was great.",service,1
+5541,652556545,We at brunch at the lobby restaurant and the food was amazing.,food,1
+5542,652556545,Something from every part of the world on the menu.,food,0
+5543,652556545,"Overall, I just wish I had more time to spend at the Marina Bay Sands.",experience,1
+5544,652556545,The pool view is breathtaking.,pool,1
+5545,652556545,"If you're thinking about visiting this resort, go for it!",,0
+5546,652556545,It's worth it.,,0
+5547,652479448,Marina bay sands is famous for its sky pool,pool,0
+5548,652479448,"I had an amazing stay in the hotel In the lobby entrance there is always a Lamborghini or Ferrari  and you can rent it too for few hundred dollar , their rates are more expensive compared to in France so I skipped that the room is also very luxury You need a room key to be able to access the floors of the hotel room",room,1
+5549,652479448,so your privacy is very much valued in this hotel,service,1
+5550,652479448,Follow me on instagram @charzmoritz for more luxury content and collaboration inquiries,,0
+5551,652467457,A must in Singapore!,,0
+5553,652467457,Obviously a landmark as well as a stunning architecture masterpiece.,experience,1
+5555,652467457,The rooms are clean and well appointed.,room,1
+5557,652467457,The bay side is worth price because of the view at night and day.,room,1
+5559,652467457,So much to do you can get lost in the hotel!,others,0
+5560,652467457,Plus great restaurants to chose from.,food,1
+5562,652467457,Check in on line and save the line!,service,0
+5563,652465900,"This is the best hotel I've ever seen, the service is at the height, quality materials in the rooms.",room,1
+5564,652465900,Very cool view from the roof of the hotel.,pool,1
+5566,652465900,From the height of the hotel is visible all of Singapore.,experience,0
+5568,652464098,Awsome Infinity pool.,pool,0
+5569,652464098,"It is really central, so u can get anywhere u want pretty fast.",others,1
+5570,652464098,"The hotel is okay, construction and architecture is not really high quality, its more for attract tourist people.",experience,0
+5572,652464098,But a must one!,,0
+5573,652414036,"This is a 5-star hotel, but we found the property just couldn't handle crowds.",service,-1
+5574,652414036,"There were multiple choke points around the property, most noticeably at the elevators, where you'd sometimes wait for multiple full elevators to go by.",others,-1
+5575,652414036,"Or, wait times in general and massive cattle herding.",experience,-1
+5576,652414036,"For the price, this was a let down.",,0
+5578,652414036,"The room was fantastic, however we found little annoyances - the TV remote did not work, the window shade motor bugged out every time we activated the room power, and the mandarins they gave us has big mold spots.",room,-1
+5579,652414036,"So, not perfect.  ",,0
+5580,652414036,The Club 55 staff are superb - so personable.,food,1
+5581,652414036,Shout out to Gina!,service,1
+5582,652309880,We came here for one night and I must say it was a great disappointment for the amount of money we spent.,experience,-1
+5584,652309880,The hotel is a great looking iconic feature of Singapore and it has the world famous rooftop infinity pool.,experience,1
+5585,652309880,That’s where it ends.,,0
+5587,652309880,1.The lobby is like a market place - noisy and crowded.,others,-1
+5588,652309880,There is nowhere to sit and relax eg while waiting for someone.,others,-1
+5589,652309880,2.The check in and check out is atrocious- service is absolutely slow and understaffed.,service,-1
+5590,652309880,For a hotel of this reputation and standard I do not expect to be standing in line to check in for over 20 minutes.,service,-1
+5592,652309880,The room is a standard size hotel room and is nothing special.,room,-1
+5593,652309880,For the cheapest room here we paid over £360 for 1 night!,room,0
+5594,652309880,We have stayed in much better hotels in Singapore for a lot less than half that!,,0
+5596,652279011,"Even though this is the biggest tourist destination in Singapore, the service level is high, the options for eating, drinking and shopping endless, and of course the rooftop pool is one the coolest in the world.",service,0
+5597,652152531,Had a wonderful stopover at the Marina Bay.,,0
+5598,652152531,"The room was beautiful, with an incredible view (we'd been upgraded from the ground floor, which was lovely).",room,1
+5599,652152531,The staff were amazing.,service,1
+5600,652152531,"The rooftop pool has a brilliant city view - it's a bit of a selfie-soup, so don't expect to actually be able to swim properly, but the view is stunning.",pool,1
+5601,652152531,The poolside restaurant did amazing breakfasts and good cocktails (we didn't try any of the other food there).,food,1
+5603,652152531,"Everything is ridiculously well organised and particularly liked that when you check out you can use the gym, spa and shower all day, so if you have an evening flight can leave your bags, enjoy the day then come and freshen up.",experience,1
+5604,652152531,Singapore in general was a bit of a surprise.,,0
+5605,652152531,We saw it as a stopover and I'd always imagined it to be a bit,,0
+5606,652006451,"A beautiful view from the bar and pool area with an almost 360 degree view of Singapore, the pool is for guests only.",pool,1
+5607,652006451,Drinks very very expensive.,food,0
+5608,652006451,There is not much shade and extremely hot and not much seating but well worth a look,pool,1
+5609,652003003,I’ve been to MBS several times already but only doing the review now maybe because I get used to the hotel already but our last stay this Feb was a superb staycation.,,0
+5611,652003003,"Love the grand club room, plus the high tea, the cocktails and breakfast at club 55.",food,1
+5612,652003003,(Will do a separate review at club 55).,,0
+5614,652003003,"The hotel as usual is crowded at the lobby, specially the check in and out counter hope they can do something about this.",service,-1
+5615,652003003,Good thing club rooms can check in at VIP check in counter.,service,1
+5617,652003003,Hope MBS will continue to have great service and amenities specially the infinity pool.,pool,1
+5618,652003003,Will definitely visit MBS when I will be in SG again.,,0
+5620,651999754,This amazing hotel is a must when visiting Singapore even if only for one night.,experience,1
+5621,651999754,"We stayed 2 nights and enjoyed everything, especially the infinity pool on the 57th which can only be accessed by guests.",experience,1
+5622,651999754,It is very busy and we were there for Chinese New Year and it was crowded.,experience,0
+5623,651999754,Our room 805 in the 3rd Tower was large and very well appointed.,room,1
+5624,651999754,"Access to the Gardens By The Bay, the shopping mall and the Art/Science Museum was easy.",others,1
+5625,651999754,"Service everywhere was excellent, cheerful staff were happy to help with everything thing.",service,1
+5626,651999754,"Our only disappointment was dinner at Lavo, an Italian/American themed restaurant, the service was so quick our meal was served immediately we had ordered which suggested that it was very much prepared, certainly not by a chef and it was very expensive.",food,-1
+5627,651999754,We were in,,0
+5628,651961529,Marina Bay sands is a luxurious mall that has cozy cafes/Restaurants to chill.,food,0
+5629,651961529,"Besides that, not everything in marina bay sands is neither expensive, however there is also certain shops that sells affordable items that fullfill your own personal needs!",others,0
+5630,651961529,"So don’t forget to visit MBS, Singapore!",,0
+5632,651953936,"Its been a few years since my last visit at MBS, but seems like nothing has changed, it just got even better.",experience,1
+5633,651953936,The view from our balcony is awesome facing the garden.,room,1
+5634,651953936,Very comfortable beds and nice ambiance.,room,1
+5635,651953936,Good food served at the casino.,food,1
+5636,651953936,And of course to top it all the  jacuzzi and infinity pool.,pool,1
+5638,651953936,I am definitely gonna be back.,,1
+5642,651931215,"I have stayed in other hotels in Singapore  - Raffles, Hyatt and Shangri-la.",,0
+5643,651931215,By far this is mt favorite.,,1
+5644,651931215,"Great views, close to the gardens and best of all, the best hawkers market at the lower level - try the hand pulled noodles.",others,1
+5645,651931215,"The view at the top floor is the best in the city, We dined at Ce La Vi one night - the food was great.",food,1
+5646,651926516,Visited yesterday mid afternoon .,,0
+5647,651926516,No question and fantastic views from the viewing platform .,experience,1
+5648,651926516,Well worth a visit .,,1
+5649,651926516,The shopping mall below has everything you could wish for .,others,1
+5650,651926516,Foodhall dussapointing though .,food,-1
+5651,651908431,If you want to stay in an architectural icon roughly on par with .....,,0
+5652,651908431,oh i dont know.....,,0
+5654,651908431,this is your place.,,0
+5655,651908431,"The building, itself, has become THE symbol of Singapore.",,0
+5656,651908431,Its bustling night and day and  if tranquility is what you're after this might not be the place for you.,,0
+5657,651908431,"I thoroughly enjoyed our stay at Marina Bay Sands,  ",experience,1
+5658,651908431,We had a package which allowed us private check-in.,service,0
+5659,651908431,"This alone, made it worth it after a 15 or 16 hour flight. .",,0
+5660,651908431,We had our choice of breakfast at 3 or 4 different places - we tried a different one every day.,food,0
+5662,651908431,"We also had exclusive access to a Club room which we utilized a few times, but not every day.",food,0
+5663,651908431,Our suite was nice but not luxurious.,room,1
+5664,651908431,More like a business class hotel.,room,0
+5666,651908431,The bathroom was VERY nice.,room,1
+5668,651908431,"Big, dual sinks, enormous walk-in shower and",room,1
+5669,651892257,We totally splurged to be able to say we stayed here.,,0
+5670,651892257,Only one night,,0
+5671,651892257,but it was amazing!!,,1
+5673,651892257,Staff was Uber friendly.,service,1
+5674,651892257,Room was gorgeous.,room,1
+5675,651892257,We chose a view of the city and at night we watched the light show from the room.,others,0
+5676,651892257,By far the best part is the infinity pool.,pool,1
+5677,651892257,Hard to want to go anywhere else!,,0
+5678,651892257,Food prices are high as well as wine.,food,0
+5679,651892257,But we knew this was a one time deal so we indulged.,,0
+5680,651892257,Our girls LOVED it.,experience,1
+5681,651892257,Would do it all again in a heartbeat.,,0
+5682,651780941,"As someone being a guest from outside, 20 dollar per person entry must be paid, which you can use for a drink.",food,0
+5683,651780941,It was the most amazing view what I have seen until now.,pool,1
+5684,651780941,"Nice bar, I would love to come back once.",pool,1
+5685,651715072,Architecture buildings here are one of the best in Asia.,,0
+5686,651715072,High end fashion brands easily found here.,others,0
+5687,651715072,"You name it, they’ve got it all.",,0
+5688,651715072,The staffs were very friendly.,service,1
+5689,651715072,Nice place for family with teenagers getaway.,experience,1
+5690,651715072,Love to come back here in future,experience,1
+5691,651661952,We decided to stay in that hotel because of infinity pool.,pool,1
+5692,651661952,"But the true is that is a massive hotel with to much people:( the rooms are ok, but not so special for the price.",room,-1
+5693,651661952,The pool - to many people making photos.,pool,0
+5694,651661952,For sure it is not a place for holiday.,experience,-1
+5695,651661952,Just to go for swimingpool for 20 minutes and make pictures.,pool,0
+5697,651661952,The hotel is also not so new.,experience,0
+5699,651661952,But we have to be there to have our own opinion.,,0
+5700,651619694,We came to Marina Bay Sands with high expectations.,,0
+5701,651619694,Overall it was not a pleasant visit.,experience,-1
+5702,651619694,Firstly the checkin was overcrowded and took 20 to get to the front of the line.,service,-1
+5703,651619694,"The hotel is know for its roof top pool, unfortunately it was overcrowded with  people taking selfies.",pool,-1
+5705,651619694,The water was dirty.,pool,-1
+5707,651619694,The hotel seemed overcrowded with people.,experience,-1
+5708,651619694,"The only place that was good was the room, it was a refuge from all the noise and crowds.",room,1
+5709,651616556,The best Hotel in Singapour.,experience,1
+5710,651616556,Famous for the roof-top infinity pool.,pool,0
+5711,651616556,Room was super with a nice  view  of the bay,room,1
+5712,651616556,Personnel is costumer oriented.,service,1
+5713,651616556,A large selection of restaurant is available.,food,0
+5714,651616556,Do not miss it if you are in this area.,,1
+5715,651458098,"We stayed here for a couple of nights, of course to experience the luxury hotel and famous infinity pool.",experience,0
+5716,651458098,"The hotel is stunning, the rooms are beautiful, spacious and balcony is huge.",room,1
+5717,651458098,"The terrace area with bars, restaurants and the pool is amazing.",pool,1
+5718,651458098,"Saying all that, we were disappointed with the lack of assistance from staff.",service,-1
+5719,651458098,They are just way too busy to be of help.,service,-1
+5720,651458098,We tried to get into the Ce La Vi club on the upper level and was told that tickets were sold out.,others,0
+5721,651458098,The doorman was extremely rude!,service,-1
+5722,651458098,We chose to go elsewhere and found out on the ground floor that tickets were being sold for the club entry!,service,0
+5723,651380381,"We came, we saw we thought “ho hum”.",,0
+5724,651380381,We have been in Singapore for two weeks and have looked over the bay several times thinking gotta do that.,,0
+5726,651380381,Now we are here not so much.,,0
+5727,651380381,If you are going to lay down $650 US for a room here be prepared for a sub standard experience.,experience,1
+5728,651380381,Room are nice but small for the $.,room,0
+5729,651380381,"Yes the pool is great and the view 5 star, its the screaming kids and parents that spoil the show.",pool,-1
+5730,651380381,"And the selfie gang, don’t get me started.",,0
+5731,651380381,"So if we had to do over, spend a couple of hundred less on different 5 star hotel, or if your determined to spend the $650 per night, you can rent a whole sweet at say the inter continental hotel and get the service that should come with that price point.",,0
+5732,651380381,"Oh and no breakfast that’s extra, also instant coffee in the room, really folks no",room,-1
+5733,651298097,right out of the plane I was supported and greeted by a hostess who drove me to the driver.,service,1
+5734,651298097,the hotel is impressive i had a perfect warm and professional welcome despite the world.,service,1
+5735,651298097,"My room was beautiful with a marvelous view of the bay, perfect for the sound and light show.",room,1
+5736,651298097,Room service was excellent.,food,1
+5737,651298097,The real plus was of course the rooftop pool!,pool,1
+5739,651298097,The hotel is next to the Garden Bay Marina.,others,0
+5740,651298097,The staff is very attentive and discreet.,service,1
+5741,651298097,The breakfast was a full and excellent buffet.,food,1
+5742,651298097,If you are going to Singapore this is the hotel not to miss and by far the best!,experience,1
+5743,651293812,Unfortunately visited here as a multiple sight seeing tour.,,0
+5745,651293812,It would have been lovely to spend some time up there,,0
+5746,651293812,but as we only had half an hour allocated by the tour company and the queue for the lift back down  was 20 minutes then we only had time to take a few pictures before our decent .,,0
+5747,651293812," Fabulous views, recommend you allow plenty of time and do this venue independently.",,0
+5748,651266558,I was in Singapore for only 48 hours as a stopover on the way from Australia to the UK.,,0
+5749,651266558,"I felt like this hotel was a must do, although mega pricey!",,0
+5750,651266558,"We arrived around 10am and started to queue for check-in, it was very busy and quite slow like many of the reviews on here have said.",service,-1
+5751,651266558,The staff definitely seemed aware of this though,service,0
+5752,651266558,and we were taken through to the VIP check-in to speed things along.,service,0
+5753,651266558,As check in isn't until 3pm we were told our room wasn't ready but we were given temporary key cards to be able to access the pool area and we told we would be emailed when our room was ready.,service,0
+5754,651266558,This was fine for us as our plan was to get out ASAP to see the city.,,0
+5756,651266558,There is a hop on hop off bus stop right outside the hotel which was ideal for us as we wanted to see as much as possible and,,0
+5757,651247214,Marina Bay was an amazing experience.,experience,1
+5758,651247214,We stayed here for 10 days and really enjoyed everything they had to offer.,experience,1
+5759,651247214,We loved that our suite opened the windows automatically with great view to the city.,room,1
+5760,651247214,You can chose your view to be either garden or river/city.,room,0
+5761,651247214,I recommend booking in advance to have breakfast on the top floor.,food,0
+5762,651247214,Its amazing and delicious!,food,1
+5763,651247214,"The missing star is because is SO BIG, SO CROWDED that you feel as if you're in a theme park in Orlando, Fl.",experience,-1
+5764,651247214,"The swimming pool is nice during sunset, amazing view.",pool,1
+5765,651247214,The cocktail bar on top was so fun.,food,1
+5766,651247214,The restaurants were so good.,food,1
+5767,651247214,"All in all, amazing place to sta",experience,1
+5768,651221940,Great hotel with all facilities.,others,1
+5769,651221940,We had a city view room which looked out over the harbour.,room,0
+5771,651221940,"But it was the Chinese New Year, so this hotel was full.",experience,0
+5772,651221940,We went up to the rooftop pool but it was full of Chinese taking selfies.,pool,0
+5773,651221940,We came back down quite quickly .,,0
+5774,651221940,The photos look wonderful of this rooftop pool and gardens but choose your time to go!,pool,1
+5775,651017037,Very beautiful Hotel by the bay.,experience,1
+5776,651017037,Has a huge shopping complex with world's best brands.,others,1
+5777,651017037,Don't forget to visit the light show in bay behind the hotel building at night.,others,1
+5778,651002336,"Such a pity because I enjoyed the hotel rooms and all the surrounding amenities, but the treatment we received from the pool and security staff put a huge stain on our whole experience at the Marina Bay Sands.",service,-1
+5779,651002336,"IMO, if a person pays extra $$ to get 2x nicer rooms for 5 star luxury (as promised), then maybe the hotel should invest in training their staff to provide 5 star customer service or at least teach them reasonable dispute resolution skills.",service,0
+5780,651002336,"Upon check-in (with a family of 5 AND 2 elderly grand parents) we were advised that our 2x booked rooms could not be adjoined and that only one room was available to us, forcing a 2 hr wait for the 2nd room to open up.",service,0
+5781,651002336,"That was not a problem for us as we understood how busy MBS was at the time, so we happily accepted their offer of",,0
+5782,651000446,"We arrived at 9am after a 10 hour flight, I expected to checkin in the afternoon as most hotels do, we only waited 30 minutes to get our room, which was spectacular!",room,0
+5783,651000446,"We booked a garden view room, we got one on the 30th floor, at the end of the hallway, meaning we had views of the gardens AND the Bay!",room,0
+5784,651000446,"The infinity pool was as spectacular as we had imagined, the service at this hotel was prompt and excellent!",pool,1
+5785,651000446,I would definitely stay here again!,experience,1
+5787,651000446,"The New Year’s eve party at Lavo was a bit chaotic at first (rather go watch the fireworks at the pool) but after midnight it got so much better, we had lots of fun!",pool,1
+5788,650975638,"The reception area of this hotel can be like central station but we had no problem after being chaperoned to VIP check in, immediately on arrival.",service,1
+5789,650975638,Nice touch folks.,,0
+5790,650975638,We booked into a Garden View King on L30 and our room was marvellous.,room,1
+5791,650975638,"Sleek, contemporary and spotless.",,1
+5792,650975638,A great entry foyer and a large bathroom are a highlight as is the great view over the Gardens By The Bay area.,room,1
+5793,650975638,If you like a city view then go right ahead.,room,0
+5794,650975638,With this you get the free light show on the wharf side of the hotel.,others,1
+5797,650975638,Yes but you do get your money's worth.,,0
+5798,650975638,A dip in the Infinity pool is a must,pool,1
+5799,650975638,but I have to say it is quite crowded.,,0
+5800,650975638,The dining offerings are spread out all over the place which is a bit of a draw back but our breakfasts at Bread Street (Gordon Ramsey) were the highlight.,food,1
+5802,650971873,"While this hotel is quite pricey, everyone who pays a visit to Singapore needs to stay in this hotel at least once.",,0
+5803,650971873,The pool is one of it's highlights and definitely lives up to its reputation.,pool,1
+5804,650971873,A beautiful way to spend the afternoon overlooking the Singapore skyline and enjoying the amenities and blissfulness of the pool area.,pool,1
+5805,650971873,"The main criticism is the menu in the pool area needs a lot of improvement, and while you expect a place like this to be overpriced, the prices really were over the top for what you get, and the service was below average.",service,-1
+5806,650971873,"The breakfast next to the pool area was another highlight however, great selection of foods to please almost anyone, with a pleasant ambience to start the day.",food,1
+5807,650971873,We stayed in one of the suites which was very spacious and comfortable with,room,1
+5808,650878315,Marina Bay Sands was an epitome of modern architecture in Singapore A showcase indeed!,experience,0
+5809,650878315,Amenities were just beyond your reach!,,0
+5810,650878315,"From world class restaurants, casinos,close by shops and tourist attraction spots!",others,1
+5811,650878315,All in one area!,,0
+5813,650878315,And when you are tired with all the activities you can use the pool with a view of the ciity and just relax along the pool sipping  your Singapore Sling drink in your hand!,pool,1
+5814,650878315,This is it for a total vacation!,,0
+5815,650850921,"Stayed at the inconic Marina Bay Sands during a short stop over in Singapore, in an executive room with a view of the harbour.",room,0
+5817,650850921,"When we arrived, the staff were extremely friendly and very welcoming.",service,1
+5818,650850921,Just what the doctor ordered after a long flight.,,0
+5820,650850921,Our room; very spacious and a wonderful view of the harbour and the gardens.,room,1
+5821,650850921,"Benefiting from a higher floor, the views were all the better.",room,1
+5822,650850921,"  The pool area at night makes for a great phot opportunity, with a lovely back drop of the city and the infinity pool.",pool,1
+5823,650850921,"Quite cold, but definitely worth a dip.",pool,1
+5824,650811257,"Expensive, but worth a couple night's stay to enjoy the pool and views from the rooftop.",pool,1
+5826,650811257,"We had breakfast at SPAGO, although the food was good, there wasn't much variety for vegetarians.",food,1
+5827,650811257,"   Staff is friendly, as you would expect from a hotel of this caliber.",service,1
+5829,650811257,"The check-in process took a bit of time as there was a long queue, they made up for it by upgrading our room for free and allowing us to check in early.",service,1
+5831,650811257,"Definitely take a walk around the hotel outside, it looks quite nice from all angles, especially from Gardens by the Bay.",experience,1
+5832,650811257,The train station is right across the street so location is very convenient.,others,0
+5834,650811257,But most places within the city center are walkable.,,0
+5835,650782664,The Marina Bay Sands hotel is a fantastic place to stay in Singapore.,experience,1
+5836,650782664,"It's located at the centre of the city, 5 minutes taxi ride from the cruise terminal.",,0
+5837,650782664,"I've stayed twice, both times staff were fantastic, room was immaculate, modern, fun.",room,1
+5838,650782664,The hotel itself had a really nice coffee shop called sweet spot at the bottom of tower 3.,food,1
+5839,650782664,"When you stay you've automatic access to the infinity pool on the roof, which is fantastic!",pool,1
+5840,650782664,There's nice restaurants and shops attached and easy access to the gardens etc.,others,1
+5841,650782664,A great place to stay,experience,1
+5842,650781041,We decided to splurge for a one day stay at this hotel post-cruise.,,0
+5844,650781041,We arrived at 9 AM and our requested room type (Grand Club) was not ready but we were given a pass to use the pool area and were told that we would get an email when the room was ready.,service,0
+5845,650781041,No problem because we were heading off to meet up with friends to explore the city so we checked our luggage.,service,0
+5847,650781041,"When we were arrived back, we were told that we had been upgraded to a 52nd floor Orchid Suite with a garden view.",service,1
+5849,650781041,"Oh my, what a lovely room with a separate large living room / desk area, TWO small balconies overlooking Gardens by the Bay and the harbor, and a large bathroom with a huge walk in shower, two sinks, and a tub.",room,1
+5851,650781041,There were multiple universal plug outlets and USB ports for charging.,room,1
+5853,650781041,And the bellman even,service,0
+5854,650778926,It’s the best hotel in Singapore we love this hotel very much !!!,experience,1
+5855,650778926,Good location good views and have many thing to do here !!!,experience,1
+5856,650778926,Easy to getting around Singapore the food here so amazing and service was wonderful too !!!,service,1
+5857,650778926,You can walk everywhere from here as well !!!,,0
+5858,650778926,Of course Singapore are very safe and clean country!!,,0
+5859,650737448,It was a small dream or a big wish to stay in MBS..,,0
+5860,650737448,Finally I achoeved it & how...,,0
+5861,650737448,"On a solo trip, though with my 2.7yo daughter.",,0
+5862,650737448,"Well, this beautiful hotel was all that I wanted on this trip....",,0
+5865,650737448,"Coming to the hotel, the check in was smooth & quick...",service,1
+5866,650737448,Accompanied by a nice welcome drink.,food,1
+5867,650737448,The staff helped me to the room...,service,1
+5868,650737448,"To my surprise, I was given a written apology for a delay of may be 4-5 mins in sending my luggage.",service,1
+5869,650737448,The room was lavish & the view was spectacular.,room,1
+5870,650737448,I was on the 35th floor of Tower 3...,room,0
+5871,650737448,Well connected & the elevator to the infinity pool is in the same tower.,pool,0
+5873,650737448,"Food was amazing & of course, the service impeccable.",service,1
+5874,650737448,One of the best breakfast buffets I have had.,food,1
+5875,650737448,The view from the observation deck & pool were worth everything.,pool,1
+5876,650737448,The lill daughter had a,,0
+5878,650729089,check in was quick and easy.,service,1
+5879,650729089,"As we queued we were handed a small bottle of water, a nice touch.",service,1
+5880,650729089,Our room was spacious and super clean.,room,1
+5882,650729089,The city view is the more expensive view but I’d been to Singapore 🇸🇬 before and I wanted the garden view.,room,0
+5885,650729089,The room was great.,room,1
+5886,650729089,A couple of little niggles,,0
+5887,650729089,but they were so small they’re not worth a mention.,,0
+5888,650729089,The staff are wonderfully attentive.,service,1
+5889,650729089,The place is huge and can be a little confusing at times but there’s always someone to ask.,service,1
+5890,650729089,We ate there a few times and the food was exceptional.,food,1
+5891,650729089,"The pool is busy but is something you MUST do, even if it’s just to take a photo.",pool,1
+5892,650729089,The views from the top are mesmerising and having a cheeky cocktail or two makes it all the more special.,food,1
+5893,650729089,I would definitely recommend staying,experience,1
+5894,650633774,A very nice hotel which if you can afford to is worth a visit.,experience,1
+5895,650633774,There is a lot to do on site.,,0
+5896,650633774,The Infinity Pool is by far the best part and only accessible if staying the night.,pool,1
+5897,650633774,This can get very busy so visit the pool very early in the morning if you want some nice photos for social media.,pool,1
+5898,650632001,Great 4 nites in a club suite.,room,1
+5899,650632001,Staff were very polite and helpful.,service,1
+5900,650632001,Our two young boys loved the pool and all the restaurants.,food,1
+5901,650632001,Views were amazing.,,0
+5902,650632001,Close to all the good shops and restaurants.,food,1
+5903,650632001,We’ll be back for the F1!,,0
+5904,650608520,Beautiful hotel with an excellent staff and gorgeous views.,service,1
+5905,650608520,The hotel is walking distance to the major attractions and food is delicious.,food,1
+5906,650608520,As a guest you will have free access to the observation deck and the infinity pool is really really amazing!,pool,1
+5907,650581090,Really nice hotel with gorgeous view.,experience,1
+5909,650581090,"You have free excess to the observation deck on top of the hotel, otherwise you have to pay more than 20 dollars to get there.",,0
+5911,650581090,"Also swimming in the roof top pool is really amazing, nice view.",pool,1
+5912,650581090,"It is kind of pricey, but well worth it.",,0
+5914,650581050,We stayed at the MBS for a 2 night stay before our cruise.,,0
+5916,650581050,We took a Grab from the airport ($16SGD),,0
+5917,650581050,There are 2 checkin desks.,,0
+5919,650581050,Tower 1 is the main desk.,,0
+5920,650581050,Checkin was smooth.,service,1
+5922,650581050,We arrived at around noon and were escorted to the VIP Check in area by the conceigre.,service,1
+5924,650581050,We waited about 10 min to checkin.,service,0
+5926,650581050,"While a smoking room was available immediately, I cannot stand smoke.  ",room,0
+5927,650581050,So we waited about an hour for a nonsmoking room.,room,0
+5928,650581050," While you wait, a temporary room card is available to give you access to the pool and gym.",others,0
+5930,650581050,There is also luggage storage that is delivered to your room.,service,0
+5931,650581050,Our room 3757 is in Tower 2.,room,0
+5932,650581050,It was a garden view premier room.,room,0
+5934,650581050,We had a small balcony overlooking the GBTB.,room,0
+5936,650581050,Large bathtub and shower.,room,1
+5938,650581050,The staff makes this 5 stars experience.,service,1
+5942,650575025,"Incredible pool, wonderful staff, big and comfortable room, with an amazing view!",room,1
+5943,650575025,A lot of restaurants and just a few steps from Gardens by the Bay.,food,0
+5944,650575025,"The location is very good, you can do everything by foot or by bike.",experience,0
+5945,650575025,Breakfast in the room is awesome!,food,1
+5946,650575025,Highly recommend this Hotel!,experience,1
+5947,650410439,"Very good hotel, very good service, great room and an abundance of food available.",food,1
+5948,650410439,Not to mentioned the Skygarden and one of the best shopping in the world on your doorstep.,others,1
+5949,650410439,This hotel must be done.,experience,0
+5950,650410439,I would definitely advise upgrading to a room with view on the bay.,room,1
+5951,650410439,gym session in the morning also very impressive.,others,1
+5952,650395171,We stayed three nights at Marina Bay Sands last Christmas before we went to Langkawi.,experience,0
+5953,650395171,We were with another family so we needed 5 rooms.,room,0
+5954,650395171,We booked some nice rooms at one of the upper floors so the view is amazing.,room,1
+5955,650395171,"When we came back from Langkawi we booked a few rooms just for the day, because we didn't want to hang around the airport for a whole day, but those rooms had a different view, to the park, which was beautiful too because the trees in the park are really stunning.",room,1
+5956,650395171,It is like a scene from Avatar.,,0
+5957,650395171,"The hotel lobby is crowded and everything is so huge, it's not a hotel you want to stay for more than a few days I guess.",experience,0
+5958,650395171,"But for a couple of days it's great, especially the Skypark with the rooftop swimmingpool, the restaurants and bars.",others,0
+5960,650395171,We had dinner in the different,food,0
+5961,650343294,After travelling for a month and staying in hostels I decided to treat myself to two nights at the Marina Bay.,,0
+5962,650343294,"  Check in was smooth with no issues, I was able to check into my room a little earlier than 3pm.",service,-1
+5963,650343294,"  The room was fantastic, clean and spacious.",room,1
+5964,650343294,The bath tub was amazing!,room,1
+5965,650343294,"  I ordered room service on the first night, which was very tasty!",food,1
+5966,650343294,The main attraction was of course the infinity pool on floor 57.,pool,1
+5967,650343294,It was very secure and you could only access it if you had your room key to swipe in and out.,,1
+5969,650343294,"The water was a nice temperature, views were incredible.",pool,1
+5970,650343294,There is an adult only section which was a bit quieter however the noise levels were not an issue for me personally.,pool,0
+5971,650343294,Excellent service through out.,service,1
+5972,650343294,"Shops, restaurants and attractions to keep you occupied through out",others,1
+5973,650300038,"yes, it is indeed a bit pricey but the hotel amenities makes the stay worth it!",others,1
+5974,650300038,plus the location of the hotel is at the heart of the city so you can easily go around SG.,others,1
+5975,650300038,"However, although the view at the top was great, i am never satisfied with my infinity pool experience.",pool,-1
+5976,650300038,(I checked in Marina Bay 3x already).,,0
+5977,650300038,There are a LOT of tourists!,,0
+5978,650300038,😱 You can't really relax anymore.,,0
+5979,650300038,It is too crowded for me.,,-1
+5980,650300038,but you have to try it at least once.,,0
+5982,650223065,Did not stay in hotel but enjoyed walking around the hotels and Shoppes.,others,1
+5983,650223065,"Make sure to get your Lifestyle Marina Sands card for discounts - got us 15% off at Rise sunday lunch, and applies to many venues.",food,1
+5984,650217708,Marina Bay Sands is an awesome location with an amazing view.,experience,1
+5985,650217708,From the 40 floor we had an incredible view of the Garden by the Bay especially in the night when everything is lighted.,others,1
+5986,650217708,The Marina Promenade is very beautiful as well.,others,1
+5987,650217708,The room and the bathroom very clean with an excellent housekeeping service.,room,1
+5988,650217708,A very big breakfast variety at Rise Restaurant.,food,1
+5989,650217708,Everything was excellent!,experience,1
+5992,650205262,This is one of those places where you cross off your bucket list and not go again.,,0
+5993,650205262,"Likes: Infinity Pool and Sky Park, clean and spacious rooms, complimentary wi-fi (excellent speeds).",room,1
+5994,650205262,"Location near Gardens by the Bay, The Shoppes and Marina Bay.",others,0
+5996,650205262,Dislikes: check-in process can be cumbersome with long queues and requirement of ID for ALL guests.,service,-1
+5998,650205262,No cheap food options nearby.,food,-1
+5999,650205262,Infinity pool is moderately crowded (it's not a canned sardine experience like some people say it is),pool,-1
